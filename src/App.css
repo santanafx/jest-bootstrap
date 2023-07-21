@@ -1,0 +1,17 @@
+.underline {
+    height: 4px;
+    width: 5rem;
+    border-radius: 4px;
+    background-color: red;
+}
+
+.sub-underline {
+    height: 4px;
+    width: 4rem;
+    border-radius: 4px;
+    background-color: blue;
+}
+
+.f2f2f2 {
+    background-color: #f2f2f2;
+}
