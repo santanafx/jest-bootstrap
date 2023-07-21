@@ -1,6 +1,9 @@
 export const Slider = () => {
     return (
-        <div id="carouselExampleIndicators" className="carousel slide">
+        <div
+            id="carouselExampleIndicators"
+            className="carousel slide container-md"
+        >
             <div className="carousel-indicators">
                 <button
                     type="button"
